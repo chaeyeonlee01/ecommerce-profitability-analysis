@@ -1,12 +1,12 @@
 # Profitability and Marketing Performance Analysis for an E-Commerce Startup
 
-Business analytics project analyzing profitability, customer conversion, and marketing performance using three months of real Naver Smart Store data.
+Business analytics project examining profitability, customer conversion, and marketing performance using three months of real Naver Smart Store data.
 
 ## Project Overview
 
 This project analyzes **three months of real e-commerce operational data** from a Naver Smart Store.
 
-The analysis integrated **18 data sources** covering sales, customers, products, marketing channels, orders, and settlement records. The objective was to identify profitability and conversion bottlenecks and translate the findings into actionable business recommendations.
+The analysis integrated **18 data sources** covering sales, customers, products, marketing channels, orders, and settlement records to identify profitability and conversion bottlenecks and translate the findings into actionable business recommendations.
 
 Three interactive Tableau dashboards were developed to examine:
 
@@ -19,7 +19,7 @@ Three interactive Tableau dashboards were developed to examine:
 - Identified a **margin-revenue mismatch**, where several high-revenue products and options did not necessarily generate the highest profit margins.
 - Found a substantial decline in first-purchase conversion, from **10.6% to 4.9%**, indicating a key conversion-funnel bottleneck.
 - Identified **Naver Search** as a high-value acquisition channel, with **Revenue per Visitor (RPV) approximately 6× the channel median**.
-- Found that coupon allocation could be improved by prioritizing **higher-margin, lower-volume products** rather than already high-volume options.
+- Identified opportunities to reallocate coupons toward **higher-margin products** and improve promotional efficiency.
 - Identified opportunities to restructure bundle promotions to improve **packaging efficiency and profitability**.
 
 ## Methodology
@@ -42,14 +42,9 @@ Product- and option-level margins were calculated in Tableau using **LOD express
 - **Excel** — Source-data preparation and validation
 - **Naver Smart Store** — Transactional, customer, marketing, and settlement data
 
-## Repository Contents
+## View Full Analysis
 
-- `index.html` — Full project report and dashboard analysis
-- `ecommerce_profitability_marketing_analysis.qmd` — Quarto source document
-
-## Full Project
-
-The complete analysis, including dashboard outputs, methodology, and detailed business insights, is available through the GitHub Pages version of this repository.
+Explore the complete project, including dashboard outputs, methodology, and detailed business insights:
 
 > **Live Portfolio:** Link will be added after GitHub Pages deployment.
 
