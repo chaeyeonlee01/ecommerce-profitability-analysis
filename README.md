@@ -8,7 +8,7 @@ This project analyzes **three months of real e-commerce operational data** from 
 
 The analysis integrated **18 data sources** covering sales, customers, products, marketing channels, orders, and settlement records to identify profitability and conversion bottlenecks and translate the findings into actionable business recommendations.
 
-Three interactive Tableau dashboards were developed to examine:
+Three Tableau dashboards were developed to examine:
 
 - Product- and option-level profitability
 - Sales and customer conversion patterns
