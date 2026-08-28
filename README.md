@@ -46,7 +46,7 @@ Product- and option-level margins were calculated in Tableau using **LOD express
 
 Explore the complete project, including dashboard outputs, methodology, and detailed business insights:
 
-> **Live Portfolio:** Link will be added after GitHub Pages deployment.
+**[View Full Interactive Portfolio](https://chaeyeonlee01.github.io/ecommerce-profitability-analysis/)**
 
 ## Data Confidentiality
 
